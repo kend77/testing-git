@@ -15,5 +15,3 @@ function liftoff(n)	{
 		return liftoff(n - 1);
 	}
 }
-
-// just trying some comments out on git and github repositories
