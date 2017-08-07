@@ -17,4 +17,3 @@ function liftoff(n)	{
 }
 
 
-//Hi mom. Im learning alot
