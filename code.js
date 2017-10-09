@@ -1,18 +1,10 @@
-
-
-
 function hello(name)	{
 	console.log('Hello World!!!!')
 }
 
-
-
-
 function add(n)	{
 	return n + 2;
 }
-
-
 
 //Liftoff Recursive Solution
 function liftoff(n)	{
@@ -23,6 +15,10 @@ function liftoff(n)	{
 		console.log(n);
 		return liftoff(n - 1);
 	}
+}
+
+function hello () {
+	return "hello"
 }
 
 
